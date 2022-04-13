@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Roy K. Maestre. I'm a colombian systems engineer student.
+
+#### Skills
+* Unity and Blender for videogames development
+* Frontend web development with ReactJs and VueJs
+* Machine and Deep Learning with tensorflow
+* Computer vision processing with openCV on python and C#.
+
 <!--
 **Royk8/Royk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
