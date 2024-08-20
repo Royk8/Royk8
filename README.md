@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Roy K. Maestre. I'm a colombian systems engineer student.
+My name is Roy K. Maestre. I'm a colombian computer engineer.
 
 #### Skills
 * Unity and Blender for videogames development
+* Backend development capabilities with TS.
 * Frontend web development with ReactJs and VueJs
 * Machine and Deep Learning with tensorflow
 * Computer vision processing with openCV on python and C#.
